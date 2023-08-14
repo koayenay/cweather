@@ -5,6 +5,7 @@ class App extends React.Component {
     super(props)
     this.state = { location: "lisbon" }
     this.fetchWeather = this.fetchWeather.bind(this)
+    // this.fetchWeather = this.fetchWeather.bind(this)
   }
   fetchWeather() {
     console.log("Loading data...")
