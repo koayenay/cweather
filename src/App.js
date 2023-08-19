@@ -70,8 +70,7 @@ class App extends React.Component {
         this.setState({ weather: weatherData.daily })
         // this.setState({ weather: weatherData.daily })
         // this.setState({ weather: weatherData.daily })
-
-
+        // this.setState({ weather: weatherData.daily })
       } catch (err) {
         console.err(err)
       } finally {
