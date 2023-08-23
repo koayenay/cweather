@@ -143,6 +143,7 @@ class Day extends React.Component {
           {Math.floor(min)}&deg; &mdash; <strong>{Math.ceil(max)}&deg;</strong>
         </p>
       </li>
+      // </li>
     )
   }
 }
