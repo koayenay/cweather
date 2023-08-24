@@ -144,6 +144,8 @@ class Day extends React.Component {
         </p>
       </li>
       // </li>
+      // </li>
+
     )
   }
 }
